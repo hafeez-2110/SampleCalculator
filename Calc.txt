@@ -11,5 +11,5 @@ return x*y;
 }
 
 Function Divide (x,y){
-//return x/y;
+return x/y;
 }
