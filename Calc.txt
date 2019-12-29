@@ -1,5 +1,5 @@
 Function Add (x,y){
-//return x+y;
+return x+y;
 }
 
 Function Subtract(x,y){
