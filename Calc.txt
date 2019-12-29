@@ -1,0 +1,15 @@
+Function Add (x,y){
+//return x+y;
+}
+
+Function Subtract(x,y){
+//return x-y;
+}
+
+Function Multiple(x,y){
+//return x*y;
+}
+
+Function Divide (x,y){
+//return x/y;
+}
